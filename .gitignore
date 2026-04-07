@@ -1,0 +1,21 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor/IDE files
+.vscode
+.idea
+*.sublime-project
+*.sublime-workspace
+
+# Common dependencies (fallback)
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+lerna-debug.log*
